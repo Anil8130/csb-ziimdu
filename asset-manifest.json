@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://anil8130.github.io/csb-ziimdu/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://anil8130.github.io/csb-ziimdu/static/js/main.8cf0ded0.chunk.js",
+    "main.js.map": "https://anil8130.github.io/csb-ziimdu/static/js/main.8cf0ded0.chunk.js.map",
+    "runtime-main.js": "https://anil8130.github.io/csb-ziimdu/static/js/runtime-main.4ed5e930.js",
+    "runtime-main.js.map": "https://anil8130.github.io/csb-ziimdu/static/js/runtime-main.4ed5e930.js.map",
+    "static/js/2.5f2f7bd7.chunk.js": "https://anil8130.github.io/csb-ziimdu/static/js/2.5f2f7bd7.chunk.js",
+    "static/js/2.5f2f7bd7.chunk.js.map": "https://anil8130.github.io/csb-ziimdu/static/js/2.5f2f7bd7.chunk.js.map",
+    "index.html": "https://anil8130.github.io/csb-ziimdu/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://anil8130.github.io/csb-ziimdu/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.5f2f7bd7.chunk.js.LICENSE.txt": "https://anil8130.github.io/csb-ziimdu/static/js/2.5f2f7bd7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ed5e930.js",
+    "static/js/2.5f2f7bd7.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8cf0ded0.chunk.js"
+  ]
+}
